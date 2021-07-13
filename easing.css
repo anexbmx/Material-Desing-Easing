@@ -1,0 +1,8 @@
+Standard easing (Outgoing Easing: 40%, Incoming Easing: 80%):
+cubic-bezier(0.4, 0.0, 0.2, 1);
+
+Decelerate easing (Outgoing Easing: 0%, Incoming Easing: 80%):
+cubic-bezier(0.0, 0.0, 0.2, 1);
+
+Accelerate easing (Outgoing Easing: 40%, Incoming Easing: 0%):
+cubic-bezier(0.4, 0.0, 1, 1);
